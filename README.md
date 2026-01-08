@@ -4,7 +4,7 @@
 ### Project Overview
 Comprehensive financial analysis of House of Fraser (169-year-old UK retailer) examining revenue trends, operational efficiency, profitability metrics, and developing data-driven recommendations for business turnaround. Analysis covers 4-year period (2015-2018) with detailed examination of sales, operations, and accounting functions.
 
-### Amazon JD Alignment
+
 - Financial Data Analysis: Multi-year income statement, balance sheet, cash flow analysis
 - Large Dataset Processing: 4+ years of detailed financial records
 - Dashboard Metrics: KPI development for sales, operations, accounting
